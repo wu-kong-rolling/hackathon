@@ -9,7 +9,7 @@ Install node.js
 Install expo-cli
 
 ```
-suo npm install expo-cli --global
+sudo npm install expo-cli --global
 ```
 
 See https://expo.io/learn
@@ -36,4 +36,4 @@ Go to the browser and the local dev page should load up
 
 Download Expo app on Google Play or iOS
 
-Scan QR code and the app will run
+Scan QR code and the app will run - if your device is using the same wifi
